@@ -37,3 +37,4 @@ Host and auto-deploy a static website using:
 ---
 
 ## 🧩 Project Architecture
+- ** GitHub → GitHub Actions → AWS S3 → Cloudflare → End User
